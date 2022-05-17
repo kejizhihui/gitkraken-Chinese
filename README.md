@@ -7,7 +7,7 @@ gitkraken中文汉化补丁
 
 Windows: %程序安装目录%\gitkraken\app-x.x.x\resources\app\src\strings.json (x.x.x 是你的GitKraken版本)
 Mac: /Applications/GitKraken.app/Contents/Resources/app/src/strings.json
-Linux: /usr/share/gitkraken/resources/app.asar.unpacked/src (感谢@lyydhy 10.31补充 Gitkraken是deepin 通过deb 安装的)
+Linux: /usr/share/gitkraken/resources/app.asar.unpacked/src 
 Linux: /opt/gitkraken/resources/app.asar.unpacked/src/strings.json (Arch Linux AUR 安装的路径在这)
 
 重启！
