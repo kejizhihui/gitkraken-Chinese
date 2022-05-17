@@ -1,5 +1,5 @@
-                                                                         # gitkraken-Chinese
-                                                                         gitkraken中文汉化补丁
+# gitkraken-Chinese
+[align=center]gitkraken中文汉化补丁[/align]
                                                                               # 使用方法
 
                                                     将项目中的 strings.json 替换到 GitKraken 语言目录下的 strings.json.
